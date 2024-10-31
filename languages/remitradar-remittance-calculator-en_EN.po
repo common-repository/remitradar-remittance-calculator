@@ -1,0 +1,96 @@
+# Translation of Plugins - RemitRadar Remittance Calculator - Development Readme (trunk) in Russian
+# This file is distributed under the same license as the Plugins - RemitRadar Remittance Calculator - Development Readme (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-20 12:40+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Project-Id-Version: Plugins - RemitRadar Remittance Calculator - "
+"Development Readme (trunk)\n"
+"POT-Creation-Date: \n"
+"Language-Team: \n"
+"Last-Translator: Ruslan <blackened118@gmail.com>\n"
+"Language: en\n"
+
+#. Short description.
+msgid ""
+"RemitRadar remittance calculator/widget, allows you to provide realtime "
+"exchange rates to your visitors"
+msgstr ""
+"RemitRadar remittance calculator/widget, allows you to provide realtime "
+"exchange rates to your visitors"
+
+#. Name.
+msgid "RemitRadar Remittance Calculator"
+msgstr "RemitRadar Remittance Calculator"
+
+#. Found in faq paragraph.
+msgid "widgets@remitradar.com"
+msgstr "widgets@remitradar.com"
+
+#. Found in faq paragraph.
+msgid "An answer to that question."
+msgstr "widgets@remitradar.com"
+
+#. Found in faq header.
+msgid "A question that someone might have"
+msgstr "A question that someone might have"
+
+#. Found in installation list item.
+msgid "Configure the plugin and add a shortcode or widget to your page"
+msgstr "Configure the plugin and add a shortcode or widget to your page"
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr "Activate the plugin through the 'Plugins' menu in WordPress"
+
+#. Found in installation list item.
+msgid ""
+"Upload <code>plugin-folder</code> to the <code>/wp-content/plugins/</code> "
+"directory"
+msgstr ""
+"Upload <code>plugin-folder</code> to the <code>/wp-content/plugins/</code> "
+"directory"
+
+#. Found in description paragraph.
+msgid ""
+"RemitRadar remittance calculator/widget, allows you to provide realtime "
+"exchange rates to your visitors. Easy installation and configuration "
+"process, let you to start streaming realtime data in seconds. This useful "
+"widget, updated regularly and  provides only up to date actual information. "
+"Great widget to entertain your audience especially if your content or "
+"website is related to immigration, international business or other sectors "
+"that are dependant on the international money transfers. If you are "
+"webmaster managing website that process over 1,000,000 monthly sessions. "
+"Please get in touch with our team to set up your compensation agreement at "
+"widgets@remitradar.com"
+msgstr ""
+"RemitRadar remittance calculator/widget, allows you to provide realtime "
+"exchange rates to your visitors. Easy installation and configuration "
+"process, let you to start streaming realtime data in seconds. This useful "
+"widget, updated regularly and  provides only up to date actual information. "
+"Great widget to entertain your audience especially if your content or "
+"website is related to immigration, international business or other sectors "
+"that are dependant on the international money transfers. If you are "
+"webmaster managing website that process over 1,000,000 monthly sessions. "
+"Please get in touch with our team to set up your compensation agreement at "
+"widgets@remitradar.com"
+
+#. Screenshot description.
+msgid "screenshot"
+msgstr "screenshot"
+
+#. Screenshot description.
+msgid "logo"
+msgstr "logo"
+
+#. Found in changelog list item.
+msgid "added translate russian localization widgets"
+msgstr "added translate russian localization widgets"
+
+#. Found in changelog list item.
+msgid "add pluggin"
+msgstr "add pluggin"

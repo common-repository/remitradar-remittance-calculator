@@ -1,0 +1,98 @@
+# Translation of Plugins - RemitRadar Remittance Calculator - Development Readme (trunk) in Russian
+# This file is distributed under the same license as the Plugins - RemitRadar Remittance Calculator - Development Readme (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-20 12:34+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Project-Id-Version: Plugins - RemitRadar Remittance Calculator - "
+"Development Readme (trunk)\n"
+"POT-Creation-Date: \n"
+"Language-Team: \n"
+"Last-Translator: Ruslan <blackened118@gmail.com>\n"
+"Language: ru\n"
+
+#. Short description.
+msgid ""
+"RemitRadar remittance calculator/widget, allows you to provide realtime "
+"exchange rates to your visitors"
+msgstr ""
+"RemitRadar - калькулятор/виджет денежных переводов, который позволяет Вашим "
+"посетителям осуществлять обмен денежными средствами в реальном времени"
+
+#. Name.
+msgid "RemitRadar Remittance Calculator"
+msgstr "RemitRadar Калькулятор денежных переводов"
+
+#. Found in faq paragraph.
+msgid "widgets@remitradar.com"
+msgstr "widgets@remitradar.com"
+
+#. Found in faq paragraph.
+msgid "An answer to that question."
+msgstr "Ответ на тот вопрос"
+
+#. Found in faq header.
+msgid "A question that someone might have"
+msgstr "Вопрос который может возникнуть у кого-то"
+
+#. Found in installation list item.
+msgid "Configure the plugin and add a shortcode or widget to your page"
+msgstr "Настройте плагин и добавьте короткий код или виджет себе на страницу"
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr "Активируйте плагин в разделе \"Плагины\" в меню WordPress-а"
+
+#. Found in installation list item.
+msgid ""
+"Upload <code>plugin-folder</code> to the <code>/wp-content/plugins/</code> "
+"directory"
+msgstr ""
+"агрузите <code>plugin-folder</code> в директорию <code>/wp-content/plugins/"
+"</code>"
+
+#. Found in description paragraph.
+msgid ""
+"RemitRadar remittance calculator/widget, allows you to provide realtime "
+"exchange rates to your visitors. Easy installation and configuration "
+"process, let you to start streaming realtime data in seconds. This useful "
+"widget, updated regularly and  provides only up to date actual information. "
+"Great widget to entertain your audience especially if your content or "
+"website is related to immigration, international business or other sectors "
+"that are dependant on the international money transfers. If you are "
+"webmaster managing website that process over 1,000,000 monthly sessions. "
+"Please get in touch with our team to set up your compensation agreement at "
+"widgets@remitradar.com"
+msgstr ""
+"Калькулятор / виджет денежных переводов RemitRadar, позволяет вам "
+"предоставлять в реальном времени обменные курсы для ваших посетителей. "
+"Простой процесс установки и настройки, позволяет вам начать потоковую "
+"передачу данных в реальном времени в считанные секунды. Этот полезный "
+"виджет, регулярно обновляемый и предоставляющий только актуальную "
+"актуальную информацию. Отличный виджет для развлечения аудитории, особенно "
+"если ваш контент или веб-сайт связаны с иммиграцией, международным бизнесом "
+"или другими секторами, которые зависят от международных денежных переводов. "
+"Если вы веб-мастер управления веб-сайтом, который обрабатывает более "
+"1,000,000 ежемесячных сессий. Пожалуйста, свяжитесь с нашей командой, чтобы "
+"установить компенсационное соглашение на widgets@remitradar.com"
+
+#. Screenshot description.
+msgid "screenshot"
+msgstr "скриншот"
+
+#. Screenshot description.
+msgid "logo"
+msgstr "логотип"
+
+#. Found in changelog list item.
+msgid "added translate russian localization widgets"
+msgstr "Добавлен перевод виджета на русский язык"
+
+#. Found in changelog list item.
+msgid "add pluggin"
+msgstr "добавить плагин"

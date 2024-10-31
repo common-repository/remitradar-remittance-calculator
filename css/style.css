@@ -1,0 +1,29 @@
+.column-size .row{
+	padding: 2px;
+}
+
+.column-type, .column-from{
+	width: 15%;
+}
+#the-list .top-center{
+	padding: 25px 5px;
+}
+thead .column-from{
+	width: 11%;
+}
+
+.selected-box .hide{
+	display:none;
+}
+
+div.form-group .btn-group{
+	width: 100%;
+}
+
+.form-group .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn) {
+    width: 100%;
+}
+
+.icon img {
+	height:100%;
+}

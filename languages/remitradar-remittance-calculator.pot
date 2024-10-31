@@ -1,0 +1,64 @@
+# Translation of Plugins - RemitRadar Remittance Calculator - Development Readme (trunk) in Russian
+# This file is distributed under the same license as the Plugins - RemitRadar Remittance Calculator - Development Readme (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - RemitRadar Remittance Calculator - Development Readme (trunk)\n"
+
+#. Short description.
+msgid "RemitRadar remittance calculator/widget, allows you to provide realtime exchange rates to your visitors"
+msgstr ""
+
+#. Name.
+msgid "RemitRadar Remittance Calculator"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "widgets@remitradar.com"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "An answer to that question."
+msgstr ""
+
+#. Found in faq header.
+msgid "A question that someone might have"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Configure the plugin and add a shortcode or widget to your page"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload <code>plugin-folder</code> to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "RemitRadar remittance calculator/widget, allows you to provide realtime exchange rates to your visitors. Easy installation and configuration process, let you to start streaming realtime data in seconds. This useful widget, updated regularly and  provides only up to date actual information. Great widget to entertain your audience especially if your content or website is related to immigration, international business or other sectors that are dependant on the international money transfers. If you are webmaster managing website that process over 1,000,000 monthly sessions. Please get in touch with our team to set up your compensation agreement at widgets@remitradar.com"
+msgstr ""
+
+#. Screenshot description.
+msgid "screenshot"
+msgstr ""
+
+#. Screenshot description.
+msgid "logo"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "added translate russian localization widgets"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "add pluggin"
+msgstr ""
